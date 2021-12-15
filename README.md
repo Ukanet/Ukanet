@@ -1,4 +1,4 @@
-- Hi, I’m Ukane Emmanuel
+- Hello, I’m Ukane Emmanuel
 - I’m interested in Web and Mobile Application development
 - I’m currently learning Flutter and Laravel
 - I’m looking to collaborate with willing and passionate programmers
